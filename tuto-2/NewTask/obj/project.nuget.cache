@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "MjUSq3E7wiEQ5bAvDezX9YaNwLqgDlbqV0exaFaec/KIDG9oq10nHljIBwGzshNaBR3LGTp9QxDGGWY3oqKMiQ==",
+  "success": true,
+  "projectFilePath": "/Users/yurimarcon/Documents/projetos/rabbit/tuto-2/NewTask/NewTask.csproj",
+  "expectedPackageFiles": [
+    "/Users/yurimarcon/.nuget/packages/rabbitmq.client/6.8.1/rabbitmq.client.6.8.1.nupkg.sha512",
+    "/Users/yurimarcon/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512",
+    "/Users/yurimarcon/.nuget/packages/system.threading.channels/7.0.0/system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

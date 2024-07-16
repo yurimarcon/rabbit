@@ -1,0 +1,17 @@
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-3/EmitLogs/obj/Debug/net7.0/EmitLogs.csproj.AssemblyReference.cache
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-3/EmitLogs/obj/Debug/net7.0/EmitLogs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-3/EmitLogs/obj/Debug/net7.0/EmitLogs.AssemblyInfoInputs.cache
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-3/EmitLogs/obj/Debug/net7.0/EmitLogs.AssemblyInfo.cs
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-3/EmitLogs/obj/Debug/net7.0/EmitLogs.csproj.CoreCompileInputs.cache
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-3/EmitLogs/bin/Debug/net7.0/EmitLogs
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-3/EmitLogs/bin/Debug/net7.0/EmitLogs.deps.json
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-3/EmitLogs/bin/Debug/net7.0/EmitLogs.runtimeconfig.json
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-3/EmitLogs/bin/Debug/net7.0/EmitLogs.dll
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-3/EmitLogs/bin/Debug/net7.0/EmitLogs.pdb
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-3/EmitLogs/bin/Debug/net7.0/RabbitMQ.Client.dll
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-3/EmitLogs/obj/Debug/net7.0/EmitLogs.csproj.CopyComplete
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-3/EmitLogs/obj/Debug/net7.0/EmitLogs.dll
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-3/EmitLogs/obj/Debug/net7.0/refint/EmitLogs.dll
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-3/EmitLogs/obj/Debug/net7.0/EmitLogs.pdb
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-3/EmitLogs/obj/Debug/net7.0/EmitLogs.genruntimeconfig.cache
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-3/EmitLogs/obj/Debug/net7.0/ref/EmitLogs.dll

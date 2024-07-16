@@ -1,0 +1,12 @@
+/Users/yurimarcon/Documents/projetos/rabbit/Desafio-1/Domain/bin/Debug/net7.0/Domain.deps.json
+/Users/yurimarcon/Documents/projetos/rabbit/Desafio-1/Domain/bin/Debug/net7.0/Domain.dll
+/Users/yurimarcon/Documents/projetos/rabbit/Desafio-1/Domain/bin/Debug/net7.0/Domain.pdb
+/Users/yurimarcon/Documents/projetos/rabbit/Desafio-1/Domain/obj/Debug/net7.0/Domain.csproj.AssemblyReference.cache
+/Users/yurimarcon/Documents/projetos/rabbit/Desafio-1/Domain/obj/Debug/net7.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yurimarcon/Documents/projetos/rabbit/Desafio-1/Domain/obj/Debug/net7.0/Domain.AssemblyInfoInputs.cache
+/Users/yurimarcon/Documents/projetos/rabbit/Desafio-1/Domain/obj/Debug/net7.0/Domain.AssemblyInfo.cs
+/Users/yurimarcon/Documents/projetos/rabbit/Desafio-1/Domain/obj/Debug/net7.0/Domain.csproj.CoreCompileInputs.cache
+/Users/yurimarcon/Documents/projetos/rabbit/Desafio-1/Domain/obj/Debug/net7.0/Domain.dll
+/Users/yurimarcon/Documents/projetos/rabbit/Desafio-1/Domain/obj/Debug/net7.0/refint/Domain.dll
+/Users/yurimarcon/Documents/projetos/rabbit/Desafio-1/Domain/obj/Debug/net7.0/Domain.pdb
+/Users/yurimarcon/Documents/projetos/rabbit/Desafio-1/Domain/obj/Debug/net7.0/ref/Domain.dll

@@ -1,0 +1,17 @@
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-2/Worker/obj/Debug/net7.0/Worker.csproj.AssemblyReference.cache
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-2/Worker/obj/Debug/net7.0/Worker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-2/Worker/obj/Debug/net7.0/Worker.AssemblyInfoInputs.cache
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-2/Worker/obj/Debug/net7.0/Worker.AssemblyInfo.cs
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-2/Worker/obj/Debug/net7.0/Worker.csproj.CoreCompileInputs.cache
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-2/Worker/bin/Debug/net7.0/Worker
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-2/Worker/bin/Debug/net7.0/Worker.deps.json
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-2/Worker/bin/Debug/net7.0/Worker.runtimeconfig.json
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-2/Worker/bin/Debug/net7.0/Worker.dll
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-2/Worker/bin/Debug/net7.0/Worker.pdb
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-2/Worker/bin/Debug/net7.0/RabbitMQ.Client.dll
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-2/Worker/obj/Debug/net7.0/Worker.csproj.CopyComplete
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-2/Worker/obj/Debug/net7.0/Worker.dll
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-2/Worker/obj/Debug/net7.0/refint/Worker.dll
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-2/Worker/obj/Debug/net7.0/Worker.pdb
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-2/Worker/obj/Debug/net7.0/Worker.genruntimeconfig.cache
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-2/Worker/obj/Debug/net7.0/ref/Worker.dll

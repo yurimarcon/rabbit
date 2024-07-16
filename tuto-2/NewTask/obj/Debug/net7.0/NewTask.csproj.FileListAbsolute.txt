@@ -1,0 +1,17 @@
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-2/NewTask/obj/Debug/net7.0/NewTask.csproj.AssemblyReference.cache
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-2/NewTask/obj/Debug/net7.0/NewTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-2/NewTask/obj/Debug/net7.0/NewTask.AssemblyInfoInputs.cache
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-2/NewTask/obj/Debug/net7.0/NewTask.AssemblyInfo.cs
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-2/NewTask/obj/Debug/net7.0/NewTask.csproj.CoreCompileInputs.cache
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-2/NewTask/bin/Debug/net7.0/NewTask
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-2/NewTask/bin/Debug/net7.0/NewTask.deps.json
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-2/NewTask/bin/Debug/net7.0/NewTask.runtimeconfig.json
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-2/NewTask/bin/Debug/net7.0/NewTask.dll
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-2/NewTask/bin/Debug/net7.0/NewTask.pdb
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-2/NewTask/bin/Debug/net7.0/RabbitMQ.Client.dll
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-2/NewTask/obj/Debug/net7.0/NewTask.csproj.CopyComplete
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-2/NewTask/obj/Debug/net7.0/NewTask.dll
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-2/NewTask/obj/Debug/net7.0/refint/NewTask.dll
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-2/NewTask/obj/Debug/net7.0/NewTask.pdb
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-2/NewTask/obj/Debug/net7.0/NewTask.genruntimeconfig.cache
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-2/NewTask/obj/Debug/net7.0/ref/NewTask.dll

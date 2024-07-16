@@ -1,0 +1,17 @@
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-4/ReceiveLogsDirect/obj/Debug/net7.0/ReceiveLogsDirect.csproj.AssemblyReference.cache
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-4/ReceiveLogsDirect/obj/Debug/net7.0/ReceiveLogsDirect.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-4/ReceiveLogsDirect/obj/Debug/net7.0/ReceiveLogsDirect.AssemblyInfoInputs.cache
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-4/ReceiveLogsDirect/obj/Debug/net7.0/ReceiveLogsDirect.AssemblyInfo.cs
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-4/ReceiveLogsDirect/obj/Debug/net7.0/ReceiveLogsDirect.csproj.CoreCompileInputs.cache
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-4/ReceiveLogsDirect/bin/Debug/net7.0/ReceiveLogsDirect
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-4/ReceiveLogsDirect/bin/Debug/net7.0/ReceiveLogsDirect.deps.json
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-4/ReceiveLogsDirect/bin/Debug/net7.0/ReceiveLogsDirect.runtimeconfig.json
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-4/ReceiveLogsDirect/bin/Debug/net7.0/ReceiveLogsDirect.dll
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-4/ReceiveLogsDirect/bin/Debug/net7.0/ReceiveLogsDirect.pdb
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-4/ReceiveLogsDirect/bin/Debug/net7.0/RabbitMQ.Client.dll
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-4/ReceiveLogsDirect/obj/Debug/net7.0/ReceiveLogsDirect.csproj.CopyComplete
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-4/ReceiveLogsDirect/obj/Debug/net7.0/ReceiveLogsDirect.dll
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-4/ReceiveLogsDirect/obj/Debug/net7.0/refint/ReceiveLogsDirect.dll
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-4/ReceiveLogsDirect/obj/Debug/net7.0/ReceiveLogsDirect.pdb
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-4/ReceiveLogsDirect/obj/Debug/net7.0/ReceiveLogsDirect.genruntimeconfig.cache
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-4/ReceiveLogsDirect/obj/Debug/net7.0/ref/ReceiveLogsDirect.dll

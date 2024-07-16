@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3FgFfp10z+QgZdqSIsyGfFzZj5ejbQ7jvlnjRKd3dCqq+fxYpweG5A84mxTFsmV8j+82yefGO4PpMMogevMXMw==",
+  "success": true,
+  "projectFilePath": "/Users/yurimarcon/Documents/projetos/rabbit/tuto-4/EmitLogDirect/EmitLogDirect.csproj",
+  "expectedPackageFiles": [
+    "/Users/yurimarcon/.nuget/packages/rabbitmq.client/6.8.1/rabbitmq.client.6.8.1.nupkg.sha512",
+    "/Users/yurimarcon/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512",
+    "/Users/yurimarcon/.nuget/packages/system.threading.channels/7.0.0/system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

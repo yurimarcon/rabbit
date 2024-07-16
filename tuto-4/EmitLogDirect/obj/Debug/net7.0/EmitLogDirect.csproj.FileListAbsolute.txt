@@ -1,0 +1,17 @@
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-4/EmitLogDirect/bin/Debug/net7.0/EmitLogDirect
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-4/EmitLogDirect/bin/Debug/net7.0/EmitLogDirect.deps.json
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-4/EmitLogDirect/bin/Debug/net7.0/EmitLogDirect.runtimeconfig.json
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-4/EmitLogDirect/bin/Debug/net7.0/EmitLogDirect.dll
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-4/EmitLogDirect/bin/Debug/net7.0/EmitLogDirect.pdb
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-4/EmitLogDirect/bin/Debug/net7.0/RabbitMQ.Client.dll
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-4/EmitLogDirect/obj/Debug/net7.0/EmitLogDirect.csproj.AssemblyReference.cache
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-4/EmitLogDirect/obj/Debug/net7.0/EmitLogDirect.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-4/EmitLogDirect/obj/Debug/net7.0/EmitLogDirect.AssemblyInfoInputs.cache
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-4/EmitLogDirect/obj/Debug/net7.0/EmitLogDirect.AssemblyInfo.cs
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-4/EmitLogDirect/obj/Debug/net7.0/EmitLogDirect.csproj.CoreCompileInputs.cache
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-4/EmitLogDirect/obj/Debug/net7.0/EmitLogDirect.csproj.CopyComplete
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-4/EmitLogDirect/obj/Debug/net7.0/EmitLogDirect.dll
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-4/EmitLogDirect/obj/Debug/net7.0/refint/EmitLogDirect.dll
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-4/EmitLogDirect/obj/Debug/net7.0/EmitLogDirect.pdb
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-4/EmitLogDirect/obj/Debug/net7.0/EmitLogDirect.genruntimeconfig.cache
+/Users/yurimarcon/Documents/projetos/rabbit/tuto-4/EmitLogDirect/obj/Debug/net7.0/ref/EmitLogDirect.dll
