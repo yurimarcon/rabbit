@@ -4,7 +4,7 @@ using API.RabbitMQ;
 
 namespace API.Services
 {
-    public class ProductService : IProductService
+    public class ProductService : IProductService 
     {
         public Task<Product> CreateProductAsync(Product product)
         {
