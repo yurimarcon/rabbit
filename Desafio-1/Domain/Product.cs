@@ -5,6 +5,8 @@ namespace Domain
 {
     public class Product
     {
+        public int Id { get; set; }
+        
         [Required(ErrorMessage = "Procuct Name can not be null.")]
         public string Name { get; set; } 
         [Required(ErrorMessage = "Procuct Valu is required.")]

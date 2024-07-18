@@ -4,14 +4,14 @@
     "/Users/yurimarcon/Documents/projetos/rabbit/Desafio-1/Worker/Worker.csproj": {}
   },
   "projects": {
-    "/Users/yurimarcon/Documents/projetos/rabbit/Desafio-1/Worker/Worker.csproj": {
+    "/Users/yurimarcon/Documents/projetos/rabbit/Desafio-1/Domain/Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/yurimarcon/Documents/projetos/rabbit/Desafio-1/Worker/Worker.csproj",
-        "projectName": "Worker",
-        "projectPath": "/Users/yurimarcon/Documents/projetos/rabbit/Desafio-1/Worker/Worker.csproj",
+        "projectUniqueName": "/Users/yurimarcon/Documents/projetos/rabbit/Desafio-1/Domain/Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "/Users/yurimarcon/Documents/projetos/rabbit/Desafio-1/Domain/Domain.csproj",
         "packagesPath": "/Users/yurimarcon/.nuget/packages/",
-        "outputPath": "/Users/yurimarcon/Documents/projetos/rabbit/Desafio-1/Worker/obj/",
+        "outputPath": "/Users/yurimarcon/Documents/projetos/rabbit/Desafio-1/Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/yurimarcon/.nuget/NuGet/NuGet.Config"
@@ -37,7 +37,161 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/yurimarcon/Documents/projetos/rabbit/Desafio-1/Infrastructure/Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/yurimarcon/Documents/projetos/rabbit/Desafio-1/Infrastructure/Infrastructure.csproj",
+        "projectName": "Infrastructure",
+        "projectPath": "/Users/yurimarcon/Documents/projetos/rabbit/Desafio-1/Infrastructure/Infrastructure.csproj",
+        "packagesPath": "/Users/yurimarcon/.nuget/packages/",
+        "outputPath": "/Users/yurimarcon/Documents/projetos/rabbit/Desafio-1/Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/yurimarcon/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/yurimarcon/Documents/projetos/rabbit/Desafio-1/Domain/Domain.csproj": {
+                "projectPath": "/Users/yurimarcon/Documents/projetos/rabbit/Desafio-1/Domain/Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/yurimarcon/Documents/projetos/rabbit/Desafio-1/Worker/Worker.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/yurimarcon/Documents/projetos/rabbit/Desafio-1/Worker/Worker.csproj",
+        "projectName": "Worker",
+        "projectPath": "/Users/yurimarcon/Documents/projetos/rabbit/Desafio-1/Worker/Worker.csproj",
+        "packagesPath": "/Users/yurimarcon/.nuget/packages/",
+        "outputPath": "/Users/yurimarcon/Documents/projetos/rabbit/Desafio-1/Worker/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/yurimarcon/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/yurimarcon/Documents/projetos/rabbit/Desafio-1/Infrastructure/Infrastructure.csproj": {
+                "projectPath": "/Users/yurimarcon/Documents/projetos/rabbit/Desafio-1/Infrastructure/Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
             "RabbitMQ.Client": {
               "target": "Package",
               "version": "[6.8.1, )"

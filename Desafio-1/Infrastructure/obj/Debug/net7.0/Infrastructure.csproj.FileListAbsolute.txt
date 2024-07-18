@@ -1,0 +1,17 @@
+/Users/yurimarcon/Documents/projetos/rabbit/Desafio-1/Infrastructure/bin/Debug/net7.0/Infrastructure.deps.json
+/Users/yurimarcon/Documents/projetos/rabbit/Desafio-1/Infrastructure/bin/Debug/net7.0/Infrastructure.runtimeconfig.json
+/Users/yurimarcon/Documents/projetos/rabbit/Desafio-1/Infrastructure/bin/Debug/net7.0/Infrastructure.dll
+/Users/yurimarcon/Documents/projetos/rabbit/Desafio-1/Infrastructure/bin/Debug/net7.0/Infrastructure.pdb
+/Users/yurimarcon/Documents/projetos/rabbit/Desafio-1/Infrastructure/bin/Debug/net7.0/Domain.dll
+/Users/yurimarcon/Documents/projetos/rabbit/Desafio-1/Infrastructure/bin/Debug/net7.0/Domain.pdb
+/Users/yurimarcon/Documents/projetos/rabbit/Desafio-1/Infrastructure/obj/Debug/net7.0/Infrastructure.csproj.AssemblyReference.cache
+/Users/yurimarcon/Documents/projetos/rabbit/Desafio-1/Infrastructure/obj/Debug/net7.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yurimarcon/Documents/projetos/rabbit/Desafio-1/Infrastructure/obj/Debug/net7.0/Infrastructure.AssemblyInfoInputs.cache
+/Users/yurimarcon/Documents/projetos/rabbit/Desafio-1/Infrastructure/obj/Debug/net7.0/Infrastructure.AssemblyInfo.cs
+/Users/yurimarcon/Documents/projetos/rabbit/Desafio-1/Infrastructure/obj/Debug/net7.0/Infrastructure.csproj.CoreCompileInputs.cache
+/Users/yurimarcon/Documents/projetos/rabbit/Desafio-1/Infrastructure/obj/Debug/net7.0/Infrastructure.csproj.CopyComplete
+/Users/yurimarcon/Documents/projetos/rabbit/Desafio-1/Infrastructure/obj/Debug/net7.0/Infrastructure.dll
+/Users/yurimarcon/Documents/projetos/rabbit/Desafio-1/Infrastructure/obj/Debug/net7.0/refint/Infrastructure.dll
+/Users/yurimarcon/Documents/projetos/rabbit/Desafio-1/Infrastructure/obj/Debug/net7.0/Infrastructure.pdb
+/Users/yurimarcon/Documents/projetos/rabbit/Desafio-1/Infrastructure/obj/Debug/net7.0/Infrastructure.genruntimeconfig.cache
+/Users/yurimarcon/Documents/projetos/rabbit/Desafio-1/Infrastructure/obj/Debug/net7.0/ref/Infrastructure.dll

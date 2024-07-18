@@ -8,9 +8,9 @@ namespace API.Services
     {
         public Task<Product> CreateProductAsync(Product product)
         {
-            string p = JsonSerializer.Serialize(product);
+            string productString = JsonSerializer.Serialize(product);
             var rabbit = new RabbitMQContext();
-            rabbit.PublishMessage("products", p);
+            rabbit.PublishMessage("products", productString);
             return Task.FromResult(product);
         }
     }
