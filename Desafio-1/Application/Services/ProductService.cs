@@ -8,7 +8,6 @@ namespace Application.Services
     public class ProductService : IProductService 
     {
         private readonly IRabbitMQContext rabbitMQContext;
-        // private readonly IProductRepository productRepository;
 
         public ProductService(IRabbitMQContext _rabbitMQContext)
         {
