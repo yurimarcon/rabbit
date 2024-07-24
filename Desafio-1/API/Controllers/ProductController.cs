@@ -1,6 +1,6 @@
-using API.Services;
 using Microsoft.AspNetCore.Mvc;
-using Domain;
+using Application.DTOs;
+using API.Services;
 
 namespace API.Controllers
 {
@@ -17,7 +17,7 @@ namespace API.Controllers
         }
 
         [HttpGet("CreateProuct")]
-        public async Task<IActionResult> Create(Product product)
+        public async Task<IActionResult> Create(ProductDTO product)
         {
             if(!ModelState.IsValid)
                 return BadRequest(ModelState);
@@ -32,8 +32,6 @@ namespace API.Controllers
         {
             return Ok();
         }
-
-        // Chalege VVV
 
         [HttpGet("ValueTotalOrders")]
         public IActionResult ValueTotalOrders()

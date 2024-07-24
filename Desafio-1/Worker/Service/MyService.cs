@@ -20,16 +20,14 @@ public class MyService
     {
         _logger.LogInformation("Service running at: {time}", DateTimeOffset.Now);
 
-        // Exemplo de uso do contexto do banco de dados
-        if (!_context.Products.Any())
-        {
-            _context.Products.Add(new Product { Name = "Product3", Value = 10.0 });
-            _context.SaveChanges();
-        }
+        Console.WriteLine("===>Entrou no if");
+        _context.Products.Add(new Product { Name = "Product3", Value = 10.0 });
+        _context.SaveChanges();
 
         var products = _context.Products.ToList();
         foreach (var product in products)
         {
+            Console.WriteLine("===>Entrou no foreach.");
             _logger.LogInformation("Product: {name}, Value: {value}", product.Name, product.Value);
         }
     }

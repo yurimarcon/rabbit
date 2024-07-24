@@ -11,7 +11,6 @@ namespace Infrastructure
         {
             var optionsBuilder = new DbContextOptionsBuilder<DatabaseContext>();
 
-            // Obtenha a configuração do arquivo appsettings.json
             IConfigurationRoot configuration = new ConfigurationBuilder()
                 .SetBasePath(Directory.GetCurrentDirectory())
                 .AddJsonFile("appsettings.json")

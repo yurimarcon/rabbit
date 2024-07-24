@@ -4,6 +4,77 @@
     "/Users/yurimarcon/Documents/projetos/rabbit/Desafio-1/Worker/Worker.csproj": {}
   },
   "projects": {
+    "/Users/yurimarcon/Documents/projetos/rabbit/Desafio-1/Application/Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/yurimarcon/Documents/projetos/rabbit/Desafio-1/Application/Application.csproj",
+        "projectName": "Application",
+        "projectPath": "/Users/yurimarcon/Documents/projetos/rabbit/Desafio-1/Application/Application.csproj",
+        "packagesPath": "/Users/yurimarcon/.nuget/packages/",
+        "outputPath": "/Users/yurimarcon/Documents/projetos/rabbit/Desafio-1/Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/yurimarcon/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/yurimarcon/Documents/projetos/rabbit/Desafio-1/Domain/Domain.csproj": {
+                "projectPath": "/Users/yurimarcon/Documents/projetos/rabbit/Desafio-1/Domain/Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.8.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.317/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "/Users/yurimarcon/Documents/projetos/rabbit/Desafio-1/Domain/Domain.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -53,7 +124,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.201/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.317/RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -134,7 +205,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.201/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.317/RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -160,6 +231,12 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
+              "/Users/yurimarcon/Documents/projetos/rabbit/Desafio-1/Application/Application.csproj": {
+                "projectPath": "/Users/yurimarcon/Documents/projetos/rabbit/Desafio-1/Application/Application.csproj"
+              },
+              "/Users/yurimarcon/Documents/projetos/rabbit/Desafio-1/Domain/Domain.csproj": {
+                "projectPath": "/Users/yurimarcon/Documents/projetos/rabbit/Desafio-1/Domain/Domain.csproj"
+              },
               "/Users/yurimarcon/Documents/projetos/rabbit/Desafio-1/Infrastructure/Infrastructure.csproj": {
                 "projectPath": "/Users/yurimarcon/Documents/projetos/rabbit/Desafio-1/Infrastructure/Infrastructure.csproj"
               }
@@ -213,7 +290,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.201/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.317/RuntimeIdentifierGraph.json"
         }
       }
     }

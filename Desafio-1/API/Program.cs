@@ -1,4 +1,6 @@
 using API.Services;
+using Application.RabbitMQ;
+using Application.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -10,6 +12,8 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 builder.Services.AddScoped<IProductService, ProductService>();
+builder.Services.AddScoped<IRabbitMQContext, RabbitMQContext>();
+// builder.Services.AddScoped<IProductRepository, ProductRepository>();
 
 var app = builder.Build();
 

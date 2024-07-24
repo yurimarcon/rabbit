@@ -71,9 +71,11 @@
 /Users/yurimarcon/Documents/projetos/rabbit/Desafio-1/Worker/bin/Debug/net7.0/runtimes/win/lib/net7.0/System.Diagnostics.EventLog.Messages.dll
 /Users/yurimarcon/Documents/projetos/rabbit/Desafio-1/Worker/bin/Debug/net7.0/runtimes/win/lib/net7.0/System.Diagnostics.EventLog.dll
 /Users/yurimarcon/Documents/projetos/rabbit/Desafio-1/Worker/bin/Debug/net7.0/runtimes/browser/lib/net7.0/System.Text.Encodings.Web.dll
+/Users/yurimarcon/Documents/projetos/rabbit/Desafio-1/Worker/bin/Debug/net7.0/Application.dll
 /Users/yurimarcon/Documents/projetos/rabbit/Desafio-1/Worker/bin/Debug/net7.0/Domain.dll
 /Users/yurimarcon/Documents/projetos/rabbit/Desafio-1/Worker/bin/Debug/net7.0/Infrastructure.dll
 /Users/yurimarcon/Documents/projetos/rabbit/Desafio-1/Worker/bin/Debug/net7.0/Infrastructure.pdb
+/Users/yurimarcon/Documents/projetos/rabbit/Desafio-1/Worker/bin/Debug/net7.0/Application.pdb
 /Users/yurimarcon/Documents/projetos/rabbit/Desafio-1/Worker/bin/Debug/net7.0/Domain.pdb
 /Users/yurimarcon/Documents/projetos/rabbit/Desafio-1/Worker/obj/Debug/net7.0/Worker.csproj.AssemblyReference.cache
 /Users/yurimarcon/Documents/projetos/rabbit/Desafio-1/Worker/obj/Debug/net7.0/Worker.GeneratedMSBuildEditorConfig.editorconfig

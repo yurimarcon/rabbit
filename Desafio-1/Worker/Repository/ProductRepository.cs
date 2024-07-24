@@ -1,7 +1,3 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using Domain;
 using Infrastructure;
 using Microsoft.EntityFrameworkCore;
@@ -16,10 +12,23 @@ namespace Worker.Repository
         {
             _databaseContext = databaseContext;
         }
-        public Task CreateProductAsync(Product product)
+        public async Task CreateProductAsync(Product product)
         {
-            _databaseContext.Products.Add(product);
-            return Task.CompletedTask;
+            Console.WriteLine("Entrou no Repository");
+            if (string.IsNullOrEmpty(product.Name))
+            {
+                Console.WriteLine("Name is required!!!");
+            }
+
+            try
+            {
+                await _databaseContext.Products.AddAsync(product);
+                await _databaseContext.SaveChangesAsync();
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("Errooooo!!!");
+            }
         }
 
         public async Task<Product> GetProductByIdAsync(int id)
